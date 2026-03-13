@@ -1,0 +1,6 @@
+FROM httpd
+MAINTER PRANEETH
+LABEL THIS IS IS MY FIRST PROJ
+EXPO 80
+COPY . /usr/local/apache2/htdocs/
+
